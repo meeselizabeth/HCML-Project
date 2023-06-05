@@ -1,0 +1,5 @@
+# virtual env
+/hcml_venv/
+
+# data
+dataset.zip
