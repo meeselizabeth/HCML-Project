@@ -5,6 +5,10 @@
 dataset.zip
 /data/
 /heysem_data/
+/sorted_data/
+
+# zip
+heysem_data.zip
 
 
 
